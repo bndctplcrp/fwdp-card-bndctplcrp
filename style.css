@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+div {
+    margin: 10px 0;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0; */
+}
